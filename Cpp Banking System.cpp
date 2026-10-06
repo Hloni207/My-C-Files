@@ -133,6 +133,11 @@ int main(){
 		cout<<"Good-bye\n\n";
 		return 0;
 	}
+
+	//Error manager
+	cout<<"\n\nUnexpectet Error Has Occured";
+	cout<<"\nClossing the system...";
+	return 0;
 }
 
 //program written by Hloni207
